@@ -1,5 +1,5 @@
 # FairDiverseDPPSampling
-This repository provides an implementation in python of a fair and diverse sampling mechanism based on DPPs (Determinantal Point Processes) along with experiments comparing several exising sampling methods as presented in our ICML'18 paper.
+This repository provides an implementation in python of a fair and diverse sampling mechanism based on DPPs (Determinantal Point Processes) along with experiments comparing several exising sampling methods as presented in our ICML'18 paper (available here https://arxiv.org/abs/1802.04023).
 
 
 ### Using the code
